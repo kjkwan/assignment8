@@ -1,0 +1,16 @@
+
+DAILY RETURN STATISTICS FOR 1 POSITION(S) and 10000 TRIAL(S): 
+Expected value of the daily return: 0.0258 
+Standard deviation of the daily return : 0.999667124597 
+
+DAILY RETURN STATISTICS FOR 10 POSITION(S) and 10000 TRIAL(S): 
+Expected value of the daily return: 0.0183 
+Standard deviation of the daily return : 0.314409144269 
+
+DAILY RETURN STATISTICS FOR 100 POSITION(S) and 10000 TRIAL(S): 
+Expected value of the daily return: 0.020398 
+Standard deviation of the daily return : 0.0999750048562 
+
+DAILY RETURN STATISTICS FOR 1000 POSITION(S) and 10000 TRIAL(S): 
+Expected value of the daily return: 0.0204264 
+Standard deviation of the daily return : 0.0315085223874 
